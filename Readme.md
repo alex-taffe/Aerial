@@ -17,7 +17,7 @@ Aerial is completely open source, so feel free to contribute to its development!
 
 #### Coded with Love by John Coates
 
-[![Twitter](http://i.imgur.com/KzOiue1.png)](http://twitter.com/punksomething)
+[![Twitter](http://i.imgur.com/KzOiue1.png)](https://twitter.com/JohnCoatesDev)
 [![Email](http://i.imgur.com/FvDZudR.png)](mailto:john@johncoates.me)
 
 ## Installation
@@ -62,7 +62,7 @@ Aerial is written in Swift, which requires OS X Mavericks or above.
 I appreciate all pull requests.
 
 ## Brew Cask Support - Install Remotely
-If you're looking to install Aerial across many systems, remotely, or simply from terminal I recommend [Brew Cask](http://caskroom.io/).
+If you're looking to install Aerial across many systems, remotely, or simply from terminal I recommend [Brew Cask](https://caskroom.github.io).
 
 Issue the following terminal command: `brew cask install aerial`
 
